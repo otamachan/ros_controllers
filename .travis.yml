@@ -2,9 +2,7 @@
 # Author: Dave Coleman
 sudo: required
 dist: trusty
-language:
-  - cpp
-  - python
+language: generic
 python:
   - "2.7"
 compiler:
